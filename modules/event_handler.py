@@ -6,7 +6,7 @@ import instructions
 import colours as cl
 from level import LEVELS_FOLDER
 
-GAME_NAME = "THE MAZE"
+GAME_NAME = "DARK MAZE"
 
 BACKGROUND_COLOUR = cl.GREY
 FPS = 20
